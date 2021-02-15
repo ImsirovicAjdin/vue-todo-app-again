@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Todo all version 2"/>
+    <HelloWorld msg="Todo app version 2"/>
     <todo-form />
   </div>
 </template>
@@ -14,7 +14,7 @@ export default {
   components: {
     HelloWorld,
     TodoForm,
-  }
+  },
 }
 </script>
 
